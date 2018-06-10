@@ -18,3 +18,4 @@ module.exports = (_ids) => {
     resolve(artists);
   });
 };
+

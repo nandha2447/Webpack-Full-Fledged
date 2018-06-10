@@ -184,3 +184,4 @@ const refreshSearch = (dispatch, getState) => {
 
   dispatch(searchArtists(_.extend({}, { name: '' }, criteria), offset, limit));
 };
+

@@ -64,3 +64,4 @@ const mapStateToProps = ({ artists, form }) => {
 };
 
 export default connect(mapStateToProps, actions)(Paginator);
+

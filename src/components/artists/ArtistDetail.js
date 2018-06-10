@@ -101,3 +101,4 @@ const mapStateToProps = ({ artists }) => {
 };
 
 export default connect(mapStateToProps, actions)(ArtistDetail);
+

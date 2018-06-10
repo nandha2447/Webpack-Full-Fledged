@@ -47,3 +47,4 @@ const mapStateToProps = (state) => {
 export default connect(mapStateToProps, actions)(reduxForm({
   form: 'create'
 })(ArtistCreate));
+

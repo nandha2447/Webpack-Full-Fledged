@@ -28,3 +28,4 @@ module.exports = (_criteria, sortProperty, offset = 0, limit = 20) => {
     resolve(artists);
   });
 };
+

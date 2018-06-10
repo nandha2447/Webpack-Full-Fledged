@@ -103,3 +103,4 @@ class ArtistIndex extends Component {
 const mapStateToProps = ({ artists, selection }) => ({ artists, selection });
 
 export default connect(mapStateToProps, actions)(ArtistIndex);
+

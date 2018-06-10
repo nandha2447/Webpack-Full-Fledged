@@ -115,3 +115,4 @@ export default connect(mapStateToProps, actions)(reduxForm({
   form: 'filters',
   initialValues: { sort: 'name' }
 })(ArtistFilter));
+

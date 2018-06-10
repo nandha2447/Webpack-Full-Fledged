@@ -18,3 +18,4 @@ class ArtistMain extends Component {
 }
 
 export default ArtistMain;
+
